@@ -1,0 +1,14 @@
+Flask
+Flask-HTTPAuth
+Flask-SQLAlchemy
+Jinja2
+MarkupSafe
+Pygments
+SQLAlchemy
+Werkzeug
+coverage
+httpie
+itsdangerous
+python-dateutil
+requests
+six
